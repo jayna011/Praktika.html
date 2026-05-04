@@ -27,3 +27,6 @@
 <p class="a">Alma</p>
 <p class="s">Pamidor</p>
 <p class="b">Banan</p>
+<button sytle=background-color:brown;>Sebet</button>
+<button style=background-color:brown;
+border:none;>Satip aliw</button>
